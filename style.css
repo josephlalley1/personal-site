@@ -53,6 +53,11 @@ p {
   font-size: 27px;
 }
 
+.contact-header {
+  margin: 64px 0 24px 0;
+  font-size: 27px;
+}
+
 .project-block-container {
   margin-top: 48px;
   width: 100%;
@@ -130,4 +135,15 @@ p {
   margin-right: 8px;
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.contact-block-container {
+  margin-top: 40px;
+  max-width: 525px;
+}
+
+.icon {
+  color: white;
+  font-size: 25px;
+  margin-right: 10px;
 }
