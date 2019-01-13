@@ -9,6 +9,16 @@ html, body {
   src: url('CircularStd-Book.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Circular Bold';
+  src: url('CircularStd-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Circular Medium';
+  src: url('CircularStd-Medium.ttf') format('truetype');
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -19,11 +29,13 @@ hr {
 }
 
 h1 {
+  font-family: 'Circular Medium';
   margin-top: -29px;
   font-size: 50px;
 }
 
 h2 {
+  font-family: 'Circular Medium';
   font-size: 42px;
 }
 
