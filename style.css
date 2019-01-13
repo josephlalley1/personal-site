@@ -116,6 +116,9 @@ p {
 .project-link {
   margin-top: -10px;
   text-align: center;
+}
+
+.project-link a {
   color: #939393;
 }
 
